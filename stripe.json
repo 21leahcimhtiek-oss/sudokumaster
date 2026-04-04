@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "products": [
+    {
+      "name": "Sudoku Master - Starter",
+      "description": "Starter plan for Sudoku Master",
+      "prices": [{"currency": "usd", "unit_amount": 900, "recurring": {"interval": "month"}}]
+    },
+    {
+      "name": "Sudoku Master - Pro",
+      "description": "Pro plan for Sudoku Master",
+      "prices": [{"currency": "usd", "unit_amount": 2900, "recurring": {"interval": "month"}}]
+    }
+  ]
+}
